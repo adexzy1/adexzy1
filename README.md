@@ -1,4 +1,4 @@
-  # 👋Hi there, I'm John Adekoys
+  # 👋Hi there, I'm John Adekoya
 
 Hi 👋 My name is John Adekoya, I am a self-taught frontend developer. I build functional and user-friendly Web Apps for companies and businesses. I am the Software chef the code is my ingredient, I love to cook Responsive & functional webApps for users to consume.
 
