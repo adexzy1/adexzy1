@@ -17,6 +17,6 @@ I am a self-taught frontend developer. I build functional and user-friendly Web 
 
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adekoya-john-adebisi-14a628127/)
 - [<img src="https://img.shields.io/badge/IamTheBravo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/IamTheBravo)
-- **email** @ Johnadexzy@gmail.com
-- **Phone** @ +234 70 6536 8281
+- **email** @ Adebisimartins3@gmail.com
+- **Phone** @ +234 91 2294 4976
 
